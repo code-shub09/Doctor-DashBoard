@@ -2,7 +2,7 @@ import React, { useContext, useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import { doctorContext } from "../store/contextX";
-import loginImg from "../assets/loginimg.png";
+import loginImg from "../assets/loginImg.png";
 import logo from "../assets/image.png";
 
 function Login() {
